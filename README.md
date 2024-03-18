@@ -1,2 +1,2 @@
-# reddit-clone-ing-new
-# react-reddit
+# reddit-clone-coding-new
+
